@@ -5,8 +5,10 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  // Uncomment and change to your repository name if deploying to a subfolder (e.g., username.github.io/silentop-dashboard)
-  // basePath: '/silentop-dashboard',
+  basePath: '/SilentOp',
+  env: {
+    NEXT_PUBLIC_BASE_PATH: '/SilentOp',
+  },
 };
 
 export default nextConfig;
