@@ -6,6 +6,8 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   basePath: '/SilentOp',
+  assetPrefix: '/SilentOp/',
+  trailingSlash: true,
   env: {
     NEXT_PUBLIC_BASE_PATH: '/SilentOp',
   },
