@@ -1,0 +1,7 @@
+ticket,symbol,direction,lots,open_price,close_price,open_time,close_time,profit,commission,swap,notes
+10001,EURUSD,buy,0.5,1.08500,1.08900,2026-06-10 09:00:00,2026-06-10 11:30:00,200.00,-3.50,0.00,Support bounce at key level
+10002,GBPUSD,sell,1.0,1.27200,1.26700,2026-06-10 13:15:00,2026-06-10 16:45:00,500.00,-7.00,0.00,Trendline break retest
+10003,XAUUSD,buy,0.1,2335.50,2320.00,2026-06-11 08:00:00,2026-06-11 11:20:00,-155.00,-1.50,0.00,Fake breakout loss
+10004,BTCUSD,buy,0.05,67200.00,68100.00,2026-06-11 14:00:00,2026-06-11 20:30:00,450.00,-2.50,-1.20,Range breakout play
+10005,XAUUSD,sell,0.2,2325.00,2332.50,2026-06-12 09:30:00,2026-06-12 12:15:00,-150.00,-3.00,0.00,Stop loss hit on reversal
+10006,EURUSD,buy,1.0,1.08700,1.08950,2026-06-12 14:00:00,2026-06-12 16:00:00,250.00,-7.00,0.00,Double bottom breakout
